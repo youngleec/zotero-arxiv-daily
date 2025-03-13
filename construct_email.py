@@ -39,7 +39,7 @@ framework = """
 
 <br><br>
 <div>
-To unsubscribe, remove your email in your Github Action setting.
+
 </div>
 
 </body>
